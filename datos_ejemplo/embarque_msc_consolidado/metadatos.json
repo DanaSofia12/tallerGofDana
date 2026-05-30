@@ -1,0 +1,28 @@
+{
+  "id_documento": "DOC-2026-002",
+  "naviera": "msc",
+  "tipo_carga": "consolidado",
+  "tipo_documento": "hbl_hijo",
+  "numero_bl": "MSCU987654321-H2",
+  "shipper": "Consolidador Global",
+  "consignee": "Cliente Final Import",
+  "puerto_origen": "COCTG",
+  "puerto_destino": "ESBCN",
+  "fecha_salida": "2026-07-01",
+  "fecha_llegada": "2026-07-20",
+  "nombre_barco": "MSC OSCAR",
+  "viaje": "NX712W",
+  "datos_digitados": {
+    "numero_bl": "MSCU987654321-H2",
+    "hbl_master": "MSCU987654321-M",
+    "hbl_hijos": ["MSCU987654321-H1", "MSCU987654321-H2"],
+    "shipper": "Consolidador Global",
+    "consignee": "Cliente Final Import",
+    "puerto_origen": "COCTG",
+    "puerto_destino": "ESBCN",
+    "fecha_salida": "2026-07-01",
+    "fecha_llegada": "2026-07-20",
+    "nombre_barco": "MSC OSCAR",
+    "viaje": "NX712W"
+  }
+}

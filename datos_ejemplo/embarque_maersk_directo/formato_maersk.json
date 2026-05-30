@@ -1,0 +1,12 @@
+{
+  "numero_bl": "MAEU123456789",
+  "shipper": "Exportadora Andina S.A.",
+  "consignee": "Importadora del Pacífico Ltda.",
+  "puerto_origen": "COBUN",
+  "puerto_destino": "USMIA",
+  "fecha_salida": "2026-06-15",
+  "fecha_llegada": "2026-06-28",
+  "nombre_barco": "MAERSK SEALAND",
+  "viaje": "V-2612N",
+  "formato": "maersk"
+}
