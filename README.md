@@ -41,6 +41,16 @@ documento/
 python main.py
 ```
 
+## Pruebas
+
+Suite con `unittest` (stdlib), estructura paralela a `entidad/` y `patrones/`:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+Ver `documento/patrones/PATRONES.md` para el detalle por patrón.
+
 ## Importación
 
 ```python
